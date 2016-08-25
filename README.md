@@ -61,9 +61,8 @@ Como o professor informou que não haveria problema na modificação do formato
 da entrada, subdividi o arquivo *bin3* em arquivos *bin3HARD0*... *bin3HARD9*, além de passar o formato das entradas para um formato similar ao
 do *gau3*
 
+### Referências
 
-\begin{thebibliography}{}
-\bibitem{stids}
 [1] STIDSEN, Thomas. [*Column Generation: Cutting Stock – A very
   applied method*](http://www.columbia.edu/~cs2035/courses/ieor4600.S07/columngeneration.pdf).
 
