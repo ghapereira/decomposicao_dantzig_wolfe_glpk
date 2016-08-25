@@ -1,0 +1,8 @@
+*.tgz
+*.gz
+*.pdf
+*.ps
+*.o
+*.swp
+*.out
+*results*
